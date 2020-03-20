@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Tramesquin",
+    "\\Tramesquin\\CSS",
+    "\\Tramesquin\\Views",
+    "\\Tramesquin\\Views\\HTML"
   ],
-  "SelectedNode": "\\DisenoWeb2",
+  "SelectedNode": "\\Tramesquin\\CSS\\Styles.css",
   "PreviewInSolutionExplorer": false
 }
