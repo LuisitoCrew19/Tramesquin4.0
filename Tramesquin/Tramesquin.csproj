@@ -160,10 +160,13 @@
     <Compile Include="Clases\Crear_Pedidos_Materia.cs" />
     <Compile Include="Clases\Login.cs" />
     <Compile Include="Clases\Materia_Prima.cs" />
+    <Compile Include="Clases\Pases_De_Dinero.cs" />
     <Compile Include="Clases\Procesos.cs" />
     <Compile Include="Clases\Produccion_En_Lote.cs" />
     <Compile Include="Clases\Productos.cs" />
     <Compile Include="Clases\Proveedores.cs" />
+    <Compile Include="Clases\Punto_De_Venta.cs" />
+    <Compile Include="Clases\Roles.cs" />
     <Compile Include="Clases\Tipo_Materia_Prima.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -172,14 +175,20 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Bodegas.html" />
+    <Content Include="Consecutivos.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Eventos.html" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="JS\Usuarios.js" />
+    <Content Include="Parametros Generales.html" />
+    <Content Include="Roles.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -193,6 +202,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Usuarios.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
